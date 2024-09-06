@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Login | Abdimas</title>
+<title>Login | Pegasus Yogyakarta</title>
+<link rel="shortcut icon" href="img/pegasus.jpg" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 

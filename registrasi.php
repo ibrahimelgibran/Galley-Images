@@ -6,7 +6,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Registrasi Abdimas</title>
+<title>Registrasi Pegasus Yogyakarta</title>
+<link rel="shortcut icon" href="img/pegasus.jpg" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
@@ -14,7 +15,7 @@
     <!-- header -->
     <header>
         <div class="container">
-        <h1><a href="index.php">Gallery Abdimas</a></h1>
+        <h1><a href="index.php">Gallery Pegasus Yogyakarta</a></h1>
         <ul>
            <li><a href="galeri.php">Galeri</a></li>
            <li><a href="registrasi.php">Registrasi</a></li>

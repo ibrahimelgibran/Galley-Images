@@ -11,6 +11,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Add Image Admin</title>
+<link rel="shortcut icon" href="img/pegasus.jpg" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
@@ -18,12 +19,12 @@
     <!-- header -->
     <header>
         <div class="container">
-        <h1><a href="dashboard.php">Gallery Abdimas</a></h1>
+        <h1><a href="index.php">Gallery Pegasus Yogyakarta</a></h1>
         <ul>
            <li><a href="dashboard.php">Dashboard</a></li>
            <li><a href="profil.php">Profil</a></li>
            <li><a href="data-image.php">Data Foto</a></li>
-           <li><a href="Keluar.php">Keluar</a></li>
+           <li><a href="keluar.php">Keluar</a></li>
         </ul>
         </div>
     </header>
